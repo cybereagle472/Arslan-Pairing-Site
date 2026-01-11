@@ -18,7 +18,7 @@ app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
 app.listen(PORT, () => {
     console.log(`
-Don't Forget To Give Star Arslan-MD ⭐ 
+Don't Forget To Say Wow 🤭 ⭐ 
 
  Server running on http://localhost:` + PORT)
 })
